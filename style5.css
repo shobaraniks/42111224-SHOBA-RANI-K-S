@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+    text-align: center;
+  }
+  .form
+  {
+    border-color: white; 
+    border-width: 1;
+    border-style: solid;
+    padding-bottom: 1cm;
+    padding-top: 1cm;
+  }
+  .box
+  {
+    border-color: white; 
+    border-width: 1;
+    border-style: solid;
+    padding-left:2cm;
+    padding-right:2cm;
+    padding-bottom: 2cm;
+    Padding-top:2cm;
+    text-align: center;
+  }
+  #hedding
+  {
+  color:white;
+  font-size: xx-large;
+  }
+  .up{
+    display:inline-block;
+    color:white
+  }
